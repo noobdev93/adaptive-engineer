@@ -169,8 +169,7 @@ Currently working on:
 
 If you want to connect or discuss engineering work:
 
-**GitHub:** (your link)
-**LinkedIn:** (your link)
+**GitHub:** https://github.com/noobdev93
 
 ---
 
