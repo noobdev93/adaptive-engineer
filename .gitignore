@@ -1,0 +1,62 @@
+# ========================================
+# PRIVATE LEARNING FILES
+# ========================================
+# Your personal reflections and notes stay private
+/docs/support/reflections.md
+**/PRIVATE_*
+**/private_*
+**/.private/
+
+# ========================================
+# NODE / NPM
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.npm
+.yarn-integrity
+
+# ========================================
+# ENVIRONMENT & SECRETS
+# ========================================
+.env
+.env.local
+.env.*.local
+**/.env
+*.key
+*.pem
+secrets/
+
+# ========================================
+# IDE / EDITOR
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ========================================
+# BUILD OUTPUTS
+# ========================================
+dist/
+build/
+out/
+*.log
+.cache/
+
+# ========================================
+# TESTING
+# ========================================
+coverage/
+.nyc_output/
+
+# ========================================
+# MISC
+# ========================================
+*.tmp
+*.temp
+.scratch/
